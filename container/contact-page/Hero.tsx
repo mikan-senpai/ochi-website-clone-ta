@@ -29,12 +29,12 @@ export default function Hero() {
 								LET’S START <br />
 							</h1>
 						</div>
-						A PROJECT TOGETHER
+						YOUR DIGITAL TRANSFORMATION
 					</h1>
 				</div>
 				<div className="w-full pb-[15px]">
 					<h3 className="paragraph font-medium text-secondry font-NeueMontreal">
-						Fill the form below:
+						Tell us about your requirements:
 					</h3>
 				</div>
 			</div>

@@ -15,7 +15,7 @@ export default function Form() {
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Enter your name*"
+								placeholder="Your name*"
 								className="paragraph w-full font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
 							/>
 						</div>
@@ -23,13 +23,13 @@ export default function Form() {
 					<div className="flex gap-[10px] w-[50%] sm:w-full xm:w-full sm:flex-col xm:flex-col">
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								and I work with
+								and I represent
 							</h2>
 						</div>
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Compony name type here*"
+								placeholder="Company name*"
 								className="paragraph w-full font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out sm:w-full xm:w-full"
 							/>
 						</div>
@@ -39,13 +39,13 @@ export default function Form() {
 					<div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								I’m looking for a partner to help me with
+								We need technology solutions for
 							</h2>
 						</div>
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Your goal type here*"
+								placeholder="Your requirements*"
 								className="paragraph font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
 							/>
 						</div>
@@ -55,13 +55,13 @@ export default function Form() {
 					<div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								With an idea of having that completed
+								We would like this completed by
 							</h2>
 						</div>
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Date*"
+								placeholder="Timeline*"
 								className="paragraph font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
 							/>
 						</div>
@@ -71,13 +71,13 @@ export default function Form() {
 					<div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								I am hoping to stay around a budget range of
+								Our budget range is approximately
 							</h2>
 						</div>
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Select*"
+								placeholder="Budget range*"
 								className="paragraph font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
 							/>
 						</div>
@@ -93,13 +93,13 @@ export default function Form() {
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="name@example.com"
+								placeholder="your.email@company.com*"
 								className="paragraph font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
 							/>
 						</div>
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								to start the conversation.
+								to discuss our requirements.
 							</h2>
 						</div>
 					</div>
@@ -108,13 +108,13 @@ export default function Form() {
 					<div className="flex gap-[10px] w-full sm:flex-col xm:flex-col">
 						<div className="xl:min-w-max lg:min-w-max md:min-w-max">
 							<h2 className="sub-heading font-NeueMontreal font-normal text-secondry">
-								Optionally, i’m sharing more:
+								Additional details (optional):
 							</h2>
 						</div>
 						<div className="w-full">
 							<input
 								type="text"
-								placeholder="Product details type here..."
+								placeholder="Current infrastructure, specific challenges, etc..."
 								className="paragraph font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry text-center sm:text-left xm:text-left outline-none focus:placeholder:opacity-0 mt-[20px] transform transition duration-200 ease-in-out w-full sm:w-full xm:w-full"
 							/>
 						</div>
@@ -143,7 +143,7 @@ export default function Form() {
 						<RoundButton
 							bgcolor="#212121"
 							href="/"
-							title="send inquiry"
+							title="send request"
 							className="bg-white text-black"
 							style={{ color: "#fff" }}
 						/>
