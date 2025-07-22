@@ -31,9 +31,9 @@ export default function Navbar() {
 					<Link href={"/"}>
 						<Image
 							src={logo}
-							alt="ochi logo"
-							width={70}
-							height={70}
+							alt="tathya logo"
+							width={150}
+							height={150}
 						/>
 					</Link>
 				</div>
