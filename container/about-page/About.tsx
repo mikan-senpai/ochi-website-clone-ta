@@ -9,27 +9,27 @@ export default function About() {
 					<div className="w-full flex justify-between padding-x sm:flex-col xm:flex-col gap-[30px]">
 						<div>
 							<h3 className="paragraph font-medium text-secondry font-NeueMontreal">
-								We are ochi design:
+								We are Tathya Technologies:
 							</h3>
 						</div>
 						<div className="w-[48%] sm:w-full xm:w-full flex justify-between">
 							<div className="w-[50%] sm:w-full xm:w-full flex flex-col gap-y-[40px]">
 								<div className="flex flex-col gap-y-[20px]">
 									<p className="paragraph font-NeueMontreal text-secondry">
-										The team of designers, storytellers, and
-										<br /> passionate collaborators, who work
-										<br /> together to create industry-shifting <br />
-										presentations that win people&apos;s hearts
+										A team of engineers, system architects, and
+										<br /> technology specialists, who work
+										<br /> together to create industry-leading <br />
+										IT solutions that power business
 										<br />
-										and minds.
+										growth and success.
 									</p>
 								</div>
 								<div className="flex flex-col gap-y-[20px]">
 									<p className="paragraph font-NeueMontreal text-secondry">
-										And we strive to become one of the most
+										Since 2014, we strive to be one of the most
 										<br />
-										recognizable & influential presentation
-										<br /> agencies of the time who does that.
+										trusted & reliable technology solution
+										<br /> providers who delivers excellence.
 									</p>
 								</div>
 							</div>

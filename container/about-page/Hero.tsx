@@ -33,7 +33,7 @@ export default function Hero() {
 										/>
 									</motion.span>
 									<h1 className="heading tracking-[-1.3px] text-[#212121] font-semibold font-FoundersGrotesk uppercase">
-										OCHI DESIGN
+										TATHYA TECHNOLOGIES
 									</h1>
 								</div>
 							</h1>
@@ -50,25 +50,25 @@ export default function Hero() {
 								<div className="w-[50%] flex flex-col gap-y-[40px] sm:w-full xm:w-full">
 									<div className="flex flex-col gap-y-[20px]">
 										<p className="paragraph font-NeueMontreal text-secondry">
-											In Ukrainian, ochi - means eyes. It&apos;s not
-											<br /> just a beautiful word, but our philosophy.
+											Tathya Technologies means "truth" in Sanskrit.
+											<br /> It&apos;s not just our name, but our philosophy.
 											<br />
-											Almost everything that needs to be
-											<br /> communicated is better shown than <br />
-											explained.
+											We believe in delivering honest, reliable
+											<br /> technology solutions that truly serve <br />
+											your business needs.
 										</p>
 									</div>
 									<div className="flex flex-col gap-y-[20px]">
 										<p className="paragraph font-NeueMontreal text-secondry">
-											We believe a great presentation evokes
+											We believe great technology infrastructure
 											<br />
-											interest and drives business results far
-											<br /> better than any saying can. Hence, we
+											drives business growth and efficiency far
+											<br /> better than any quick fix can. Since 2014,
 											<br />
-											founded ochi to help you persuade
-											<br /> colleagues and clients by creating eye-
+											we&apos;ve helped businesses build robust,
+											<br /> scalable IT solutions that power their
 											<br />
-											opening presentations.
+											success.
 										</p>
 									</div>
 								</div>
@@ -99,8 +99,8 @@ export default function Hero() {
 			</div>
 			<div className="padding-x">
 				<h1 className="sub-heading font-medium font-NeueMontreal text-secondry">
-					We save businesses from ugly and
-					<br className="sm:hidden xm:hidden" /> ineffective presentations.
+					We save businesses from unreliable and
+					<br className="sm:hidden xm:hidden" /> inefficient IT infrastructure.
 				</h1>
 			</div>
 		</section>

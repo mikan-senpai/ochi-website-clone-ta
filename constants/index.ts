@@ -39,8 +39,8 @@ export const footerItems = [
    },
    {
       id: 2,
-      title: "Behance",
-      href: "https://www.behance.com/",
+      title: "LinkedIn",
+      href: "https://www.linkedin.com/",
    },
    {
       id: 3,
@@ -49,8 +49,8 @@ export const footerItems = [
    },
    {
       id: 4,
-      title: "Linkedin",
-      href: "https://www.linkedin.com/",
+      title: "Twitter",
+      href: "https://www.twitter.com/",
    },
 ];
 
@@ -90,244 +90,244 @@ export const footernavbarItems = [
 export const clientsItem = [
    {
       id: 1,
-      website: "Karman Ventures",
-      href: "https://www.ochi.design",
+      website: "TechCorp Solutions",
+      href: "https://www.tathyatech.com",
       title: "Services:",
-      name: "William Barnes",
+      name: "Rajesh Kumar",
       src: client01,
-      review: "They were transparent about the time and the stages of the project. The end product is high quality, and I feel confident about how they were handholding the client through the process. I feel like I can introduce them to someone who needs to put a sales deck together from scratch, and they would be able to handhold the client experience from 0 to 100 very effectively from story to design. 5/5",
+      review: "Tathya Technologies transformed our entire IT infrastructure. Their server setup and cloud migration services were exceptional. The team provided 24/7 support throughout the process and delivered exactly what we needed. Their expertise in both Windows and Linux environments saved us significant time and resources. Highly recommended for any business looking for reliable IT solutions.",
       links: [
          {
             id: 1,
-            title: "investor deck",
+            title: "server setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "sales deck",
+            title: "cloud migration",
             href: "/services",
          },
       ]
    },
    {
       id: 2,
-      website: "Planetly",
-      href: "https://www.planetly.com",
+      website: "Global Communications Ltd",
+      href: "https://www.globalcomm.com",
       title: "Services:",
-      name: "Nina Walloch",
+      name: "Priya Sharma",
       src: client02,
-      review: "Ihor and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
+      review: "The PBX migration and IP telephony solutions provided by Tathya Technologies exceeded our expectations. They seamlessly migrated our legacy PBX system to a modern IP-based solution with zero downtime. Their team's professionalism and technical expertise made the entire process smooth and efficient. We now have a scalable communication system that grows with our business.",
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "PBX migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "big news deck",
+            title: "IP telephony",
             href: "/services",
          },
          {
             id: 3,
-            title: "branded template",
+            title: "VoIP integration",
             href: "/services",
          },
          {
             id: 4,
-            title: "investor deck",
-            href: "/services",
-         },
-         {
-            id: 5,
-            title: "product presentation",
-            href: "/services",
-         },
-         {
-            id: 6,
-            title: "sales deck",
-            href: "/services",
-         },
-         {
-            id: 7,
-            title: "startup pitch",
+            title: "communication systems",
             href: "/services",
          },
       ]
    },
    {
       id: 3,
-      website: "Workiz Easy",
-      href: "https://www.workiz.com",
+      website: "DataFlow Enterprises",
+      href: "https://www.dataflow.com",
       title: "Services:",
-      name: "Tormer levy",
+      name: "Amit Patel",
       src: client03,
-      review: "OCHI brought a certain level of professionalism into our presentations that we were lacking before. When I showed our management and HR teams the presentations OCHI developed, they were amazed — the final product was exactly what we needed to create a better experience for new employees and our clients.",
+      review: "Tathya Technologies built our complete data center infrastructure from scratch. Their expertise in hardware procurement, network architecture, and disaster recovery planning was outstanding. The team delivered a robust, scalable solution that perfectly meets our business requirements. Their ongoing support and maintenance services ensure our operations run smoothly 24/7.",
       links: [
          {
             id: 1,
-            title: "compony presentation",
+            title: "data center setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "onboarding presentation",
+            title: "network architecture",
             href: "/services",
          },
          {
             id: 3,
-            title: "policy deck and playbook",
+            title: "disaster recovery",
             href: "/services",
          },
          {
             id: 4,
-            title: "redesign",
-            href: "/services",
-         },
-         {
-            id: 5,
-            title: "sales deck",
+            title: "infrastructure management",
             href: "/services",
          },
       ]
    },
    {
       id: 4,
-      website: "Premium Blend",
-      href: "https://www.premium-blend.com",
+      website: "WebTech Innovations",
+      href: "https://www.webtech.com",
       title: "Services:",
-      name: "Elien Kim",
+      name: "Sneha Gupta",
       src: client04,
-      review: "They are truly changing the landscape of presentations!! Fast, effective, and nice humans that listened to every detail of our needs. Creating a deck with their template brings so much joy and ease. We proudly showcase their design in our calls and presentations.",
+      review: "The custom web development and AI integration services from Tathya Technologies revolutionized our online presence. They created a modern, responsive website with intelligent chatbots and automated customer service features. The AI-powered analytics provide valuable insights into user behavior. Their team's creativity and technical skills are truly impressive.",
       links: [
          {
             id: 1,
-            title: "branded template",
+            title: "web development",
             href: "/services",
          },
          {
             id: 2,
-            title: "illustration",
+            title: "AI integration",
+            href: "/services",
+         },
+         {
+            id: 3,
+            title: "automation solutions",
             href: "/services",
          },
       ]
    },
    {
       id: 5,
-      website: "Hypercare Systems",
-      href: "https://www.hypercare-systems.com",
+      website: "CloudFirst Systems",
+      href: "https://www.cloudfirst.com",
       title: "Services:",
-      name: "Brendon Goss",
+      name: "Vikram Singh",
       src: client05,
-      review: "The service received from OCHI was absolutely first-class. Their close attention to detail, and deep thought in terms of narrative, flow, and aesthetics, completely exceeded my expectations, which were very high from the outset. Especially loved and appreciated the creation of visuals, animation, and advice around the look and feel that we are after. We will definitely continue working with Ihor and his team. I cannot recommend them highly enough.",
+      review: "Tathya Technologies provided exceptional cloud infrastructure services that transformed our business operations. Their multi-cloud deployment strategy and security implementation gave us the scalability and reliability we needed. The migration process was seamless, and their ongoing cloud management services ensure optimal performance and cost efficiency.",
       links: [
          {
             id: 1,
-            title: "investor deck",
+            title: "cloud infrastructure",
             href: "/services",
          },
          {
             id: 2,
-            title: "startup pitch",
+            title: "cloud migration",
+            href: "/services",
+         },
+         {
+            id: 3,
+            title: "multi-cloud deployment",
             href: "/services",
          },
       ]
    },
    {
       id: 6,
-      website: "Officevibe",
-      href: "https://www.officevibe.com",
+      website: "SmartBiz Solutions",
+      href: "https://www.smartbiz.com",
       title: "Services:",
-      name: "Raff Labri",
+      name: "Kavita Joshi",
       src: client06,
-      review: "Ochi has an impressive understanding of what’s needed to do an effective presentation. The stakeholders at work said it’s the best most complete PP template they’ve ever seen. Ochi delivered more than I was expecting and we were really surprised with the quality of his work. Will work with Ochi design again for sure!",
+      review: "The AI solutions and business automation services from Tathya Technologies have significantly improved our operational efficiency. Their machine learning implementation and predictive analytics tools provide valuable insights for decision-making. The automated workflow systems have streamlined our processes and reduced manual work considerably.",
       links: [
          {
             id: 1,
-            title: "branded template deck",
+            title: "AI solutions",
+            href: "/services",
+         },
+         {
+            id: 2,
+            title: "business automation",
+            href: "/services",
+         },
+         {
+            id: 3,
+            title: "machine learning",
             href: "/services",
          },
       ]
    },
    {
       id: 7,
-      website: "Orderlion",
-      href: "https://www.orderlion.com",
+      website: "SecureHost Pro",
+      href: "https://www.securehost.com",
       title: "Services:",
-      name: "Stefan Strohmer",
+      name: "Rahul Mehta",
       src: client07,
-      review: "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Ihor and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!",
+      review: "Tathya Technologies delivered outstanding email and hosting solutions that gave us complete control over our communication infrastructure. Their custom email server setup and SMTP configuration were flawless. The team's expertise in hosting server management and web application support has been invaluable for our growing business needs.",
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "email servers",
             href: "/services",
          },
          {
             id: 2,
-            title: "investor deck",
+            title: "hosting solutions",
             href: "/services",
          },
          {
             id: 3,
-            title: "product presentation",
+            title: "SMTP configuration",
             href: "/services",
          },
          {
             id: 4,
-            title: "review",
-            href: "/services",
-         },
-         {
-            id: 2,
-            title: "sales deck",
+            title: "server management",
             href: "/services",
          },
       ]
    },
    {
       id: 8,
-      website: "Black Book",
-      href: "https://www.blackbookapp.co",
+      website: "TechFlow Dynamics",
+      href: "https://www.techflow.com",
       title: "Services:",
-      name: "Jacki Smith",
+      name: "Anita Roy",
       src: client08,
-      review: "They nailed what our product was all about. We found their ability to workshop all the angles and take on feedback was great and it shows in the final product. Everything moved with a milestone dynamic brief via Notion which was handy to track progress. We’re very happy with the process and the final product. All was handled well and professionally.",
+      review: "The comprehensive IT infrastructure services provided by Tathya Technologies exceeded all our expectations. From server optimization to security hardening, they covered every aspect of our technology needs. Their 24/7 monitoring and support services give us peace of mind knowing our systems are always protected and running optimally.",
       links: [
          {
             id: 1,
-            title: "review",
+            title: "server optimization",
             href: "/services",
          },
          {
             id: 2,
-            title: "startup pitch",
+            title: "security hardening",
+            href: "/services",
+         },
+         {
+            id: 3,
+            title: "24/7 monitoring",
             href: "/services",
          },
       ]
    },
    {
       id: 9,
-      website: "Trawa Energy",
-      href: "https://www.blackbookapp.co",
+      website: "InnovateTech Hub",
+      href: "https://www.innovatetech.com",
       title: "Services:",
-      name: "David Buddy",
+      name: "Suresh Reddy",
       src: client09,
-      review: "We were surprised by the accuracy with which Ochi Design nailed the overall design language that perfectly aligned with our personal preferences and the vision that we have for our young company.",
+      review: "Tathya Technologies helped us build a complete technology ecosystem from the ground up. Their expertise in both hardware and software solutions, combined with their innovative approach to problem-solving, made them the perfect partner for our digital transformation journey.",
       links: [
          {
             id: 1,
-            title: "branding",
+            title: "digital transformation",
             href: "/services",
          },
          {
             id: 2,
-            title: "investor deck",
+            title: "technology consulting",
             href: "/services",
          },
          {
             id: 3,
-            title: "startup pitch",
+            title: "system integration",
             href: "/services",
          },
       ]
@@ -338,82 +338,87 @@ export const clientsItem = [
 export const projectItem = [
    {
       id: 1,
-      title: "fyde",
+      title: "CloudMigrate Pro",
       href: "/case/",
       src: project1,
       links: [
          {
             id: 1,
-            title: "audit",
+            title: "cloud migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "copywriting",
+            title: "infrastructure audit",
             href: "/services",
          },
          {
             id: 3,
-            title: "sales deck",
+            title: "server optimization",
             href: "/services",
          },
          {
             id: 4,
-            title: "slides design",
+            title: "security implementation",
             href: "/services",
          },
       ]
    },
    {
       id: 2,
-      title: "vise",
+      title: "DataCenter Build",
       href: "/case/",
       src: project2,
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "data center setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "compony presentation",
+            title: "network architecture",
             href: "/services",
          },
       ]
    },
    {
       id: 3,
-      title: "trawa",
+      title: "SmartComm Systems",
       href: "/case/",
       src: project3,
       links: [
          {
             id: 1,
-            title: "brand identity",
+            title: "PBX migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "design research",
+            title: "VoIP integration",
             href: "/services",
          },
          {
             id: 3,
-            title: "investor deck",
+            title: "communication systems",
             href: "/services",
          },
       ]
    },
    {
       id: 4,
-      title: "premiumblend",
+      title: "AI WebSolutions",
       href: "/case/",
       src: project4,
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "web development",
+            href: "/services",
+         },
+         {
+            id: 2,
+            title: "AI integration",
             href: "/services",
          },
       ]
@@ -427,41 +432,41 @@ export const serviceProcessItems = [
    {
       id: 1,
       phase: "01. Phase",
-      name: "Discovery",
+      name: "Analysis & Planning",
       src: phase1,
-      review: "We define your goals, get to know your audience, and understand the context. Through a process of exploration, investigation, and research, we seek the insights that inform our future decisions.",
+      review: "We analyze your current IT infrastructure, understand your business requirements, and create a comprehensive plan. Through detailed assessment and consultation, we identify opportunities for improvement and develop a roadmap for implementation.",
       button: "read"
    },
    {
       id: 2,
       phase: "02. Phase",
-      name: "Storytelling",
+      name: "Design & Architecture",
       src: phase2,
-      review: "Based on the answers, previous drafts, and additional research, we will develop a foundation of the deck — the structure of the presentation. We build a tone of voice, flow, and narrative to engage our audience. Here we will win people's minds.",
+      review: "Based on the analysis, we design the optimal solution architecture tailored to your needs. We create detailed technical specifications, select appropriate technologies, and plan the implementation strategy to ensure seamless integration with your existing systems.",
       button: "read"
    },
    {
       id: 3,
       phase: "03. Phase",
-      name: "Design",
+      name: "Implementation",
       src: phase3,
-      review: "We use design to guide our audience's attention and keep them engaged. It's not only what you want them to do, but also how you make them feel. We make sure the presentation wins people's hearts and leaves a perfect long-lasting impression.",
+      review: "We execute the planned solution with precision and expertise. Our team handles all aspects of implementation including hardware setup, software configuration, testing, and optimization to ensure everything works perfectly according to specifications.",
       button: "read"
    },
    {
       id: 4,
       phase: "04. Phase",
-      name: "Feedback",
+      name: "Testing & Validation",
       src: phase4,
-      review: "We want to stay on the same page. Hence, each phase wraps up presenting the work to you to collect and implement your feedback if such appears.",
+      review: "Comprehensive testing ensures all systems function correctly and meet performance requirements. We validate security measures, conduct load testing, and verify all features work as expected before going live.",
       button: "read"
    },
    {
       id: 5,
       phase: "05. Phase",
-      name: "Delivery",
+      name: "Support & Maintenance",
       src: phase5,
-      review: "We will carefully collect and prepare all the project files to ensure smooth future use.",
+      review: "We provide ongoing support and maintenance to ensure optimal performance. Our 24/7 monitoring, regular updates, and proactive maintenance keep your systems running smoothly and securely.",
       button: "read"
    },
 ];
@@ -469,218 +474,193 @@ export const serviceProcessItems = [
 export const serviceClientsItem = [
    {
       id: 1,
-      website: "Karman Ventures",
-      href: "https://www.ochi.design",
+      website: "TechCorp Solutions",
+      href: "https://www.tathyatech.com",
       title: "Services:",
-      name: "William Barnes",
+      name: "Rajesh Kumar",
       src: client01,
-      review: "They were transparent about the time and the stages of the project. The end product is high quality, and I feel confident about how they were handholding the client through the process. I feel like I can introduce them to someone who needs to put a sales deck together from scratch, and they would be able to handhold the client experience from 0 to 100 very effectively from story to design. 5/5",
+      review: "Tathya Technologies transformed our entire IT infrastructure. Their server setup and cloud migration services were exceptional. The team provided 24/7 support throughout the process and delivered exactly what we needed. Their expertise in both Windows and Linux environments saved us significant time and resources. Highly recommended for any business looking for reliable IT solutions.",
       links: [
          {
             id: 1,
-            title: "investor deck",
+            title: "server setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "sales deck",
+            title: "cloud migration",
             href: "services",
          },
       ]
    },
    {
       id: 2,
-      website: "Planetly",
-      href: "https://www.planetly.com",
+      website: "Global Communications Ltd",
+      href: "https://www.globalcomm.com",
       title: "Services:",
-      name: "Nina Walloch",
+      name: "Priya Sharma",
       src: client02,
-      review: "Ihor and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership.",
+      review: "The PBX migration and IP telephony solutions provided by Tathya Technologies exceeded our expectations. They seamlessly migrated our legacy PBX system to a modern IP-based solution with zero downtime. Their team's professionalism and technical expertise made the entire process smooth and efficient. We now have a scalable communication system that grows with our business.",
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "PBX migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "big news deck",
+            title: "IP telephony",
             href: "services",
          },
          {
             id: 3,
-            title: "branded template",
+            title: "VoIP integration",
             href: "services",
          },
          {
             id: 4,
-            title: "investor deck",
-            href: "services",
-         },
-         {
-            id: 5,
-            title: "product presentation",
-            href: "services",
-         },
-         {
-            id: 6,
-            title: "sales deck",
-            href: "services",
-         },
-         {
-            id: 7,
-            title: "startup pitch",
+            title: "communication systems",
             href: "services",
          },
       ]
    },
    {
       id: 3,
-      website: "Workiz Easy",
-      href: "https://www.workiz.com",
+      website: "DataFlow Enterprises",
+      href: "https://www.dataflow.com",
       title: "Services:",
-      name: "Tormer levy",
+      name: "Amit Patel",
       src: client03,
-      review: "OCHI brought a certain level of professionalism into our presentations that we were lacking before. When I showed our management and HR teams the presentations OCHI developed, they were amazed — the final product was exactly what we needed to create a better experience for new employees and our clients.",
+      review: "Tathya Technologies built our complete data center infrastructure from scratch. Their expertise in hardware procurement, network architecture, and disaster recovery planning was outstanding. The team delivered a robust, scalable solution that perfectly meets our business requirements. Their ongoing support and maintenance services ensure our operations run smoothly 24/7.",
       links: [
          {
             id: 1,
-            title: "compony presentation",
+            title: "data center setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "onboarding presentation",
+            title: "network architecture",
             href: "services",
          },
          {
             id: 3,
-            title: "policy deck and playbook",
+            title: "disaster recovery",
             href: "services",
          },
          {
             id: 4,
-            title: "redesign",
-            href: "services",
-         },
-         {
-            id: 5,
-            title: "sales deck",
+            title: "infrastructure management",
             href: "services",
          },
       ]
    },
    {
       id: 4,
-      website: "Premium Blend",
-      href: "https://www.premium-blend.com",
+      website: "WebTech Innovations",
+      href: "https://www.webtech.com",
       title: "Services:",
-      name: "Elien Kim",
+      name: "Sneha Gupta",
       src: client04,
-      review: "They are truly changing the landscape of presentations!! Fast, effective, and nice humans that listened to every detail of our needs. Creating a deck with their template brings so much joy and ease. We proudly showcase their design in our calls and presentations.",
+      review: "The custom web development and AI integration services from Tathya Technologies revolutionized our online presence. They created a modern, responsive website with intelligent chatbots and automated customer service features. The AI-powered analytics provide valuable insights into user behavior. Their team's creativity and technical skills are truly impressive.",
       links: [
          {
             id: 1,
-            title: "branded template",
+            title: "web development",
             href: "/services",
          },
          {
             id: 2,
-            title: "illustration",
+            title: "AI integration",
             href: "services",
          },
       ]
    },
    {
       id: 5,
-      website: "Hypercare Systems",
-      href: "https://www.hypercare-systems.com",
+      website: "CloudFirst Systems",
+      href: "https://www.cloudfirst.com",
       title: "Services:",
-      name: "Brendon Goss",
+      name: "Vikram Singh",
       src: client05,
-      review: "The service received from OCHI was absolutely first-class. Their close attention to detail, and deep thought in terms of narrative, flow, and aesthetics, completely exceeded my expectations, which were very high from the outset. Especially loved and appreciated the creation of visuals, animation, and advice around the look and feel that we are after. We will definitely continue working with Ihor and his team. I cannot recommend them highly enough.",
+      review: "Tathya Technologies provided exceptional cloud infrastructure services that transformed our business operations. Their multi-cloud deployment strategy and security implementation gave us the scalability and reliability we needed. The migration process was seamless, and their ongoing cloud management services ensure optimal performance and cost efficiency.",
       links: [
          {
             id: 1,
-            title: "investor deck",
+            title: "cloud infrastructure",
             href: "/services",
          },
          {
             id: 2,
-            title: "startup pitch",
+            title: "cloud migration",
             href: "services",
          },
       ]
    },
    {
       id: 6,
-      website: "Officevibe",
-      href: "https://www.officevibe.com",
+      website: "SmartBiz Solutions",
+      href: "https://www.smartbiz.com",
       title: "Services:",
-      name: "Raff Labri",
+      name: "Kavita Joshi",
       src: client06,
-      review: "Ochi has an impressive understanding of what’s needed to do an effective presentation. The stakeholders at work said it’s the best most complete PP template they’ve ever seen. Ochi delivered more than I was expecting and we were really surprised with the quality of his work. Will work with Ochi design again for sure!",
+      review: "The AI solutions and business automation services from Tathya Technologies have significantly improved our operational efficiency. Their machine learning implementation and predictive analytics tools provide valuable insights for decision-making. The automated workflow systems have streamlined our processes and reduced manual work considerably.",
       links: [
          {
             id: 1,
-            title: "branded template deck",
+            title: "AI solutions",
             href: "/services",
          },
       ]
    },
    {
       id: 7,
-      website: "Orderlion",
-      href: "https://www.orderlion.com",
+      website: "SecureHost Pro",
+      href: "https://www.securehost.com",
       title: "Services:",
-      name: "Stefan Strohmer",
+      name: "Rahul Mehta",
       src: client07,
-      review: "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Ihor and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!",
+      review: "Tathya Technologies delivered outstanding email and hosting solutions that gave us complete control over our communication infrastructure. Their custom email server setup and SMTP configuration were flawless. The team's expertise in hosting server management and web application support has been invaluable for our growing business needs.",
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "email servers",
             href: "/services",
          },
          {
             id: 2,
-            title: "investor deck",
+            title: "hosting solutions",
             href: "services",
          },
          {
             id: 3,
-            title: "product presentation",
+            title: "SMTP configuration",
             href: "services",
          },
          {
             id: 4,
-            title: "review",
-            href: "services",
-         },
-         {
-            id: 2,
-            title: "sales deck",
+            title: "server management",
             href: "services",
          },
       ]
    },
    {
       id: 8,
-      website: "Black Book",
-      href: "https://www.blackbookapp.co",
+      website: "TechFlow Dynamics",
+      href: "https://www.techflow.com",
       title: "Services:",
-      name: "Jacki Smith",
+      name: "Anita Roy",
       src: client08,
-      review: "They nailed what our product was all about. We found their ability to workshop all the angles and take on feedback was great and it shows in the final product. Everything moved with a milestone dynamic brief via Notion which was handy to track progress. We’re very happy with the process and the final product. All was handled well and professionally.",
+      review: "The comprehensive IT infrastructure services provided by Tathya Technologies exceeded all our expectations. From server optimization to security hardening, they covered every aspect of our technology needs. Their 24/7 monitoring and support services give us peace of mind knowing our systems are always protected and running optimally.",
       links: [
          {
             id: 1,
-            title: "review",
+            title: "server optimization",
             href: "/services",
          },
          {
             id: 2,
-            title: "startup pitch",
+            title: "security hardening",
             href: "services",
          },
       ]
@@ -691,47 +671,47 @@ export const serviceCapaybilitiesItem = [
    {
       id: 1,
       src1: capaybilities1,
-      title1: "RAISE FUNDS:",
-      review: "We help manage investor expectations and secure financing for your business with an excellent investor deck.Having a good product or illuminating ideas is not enough anymore.Poor investor presentation may close the door to potential financing right away.In contrast, a properly made investor deck provides investors with clarity, evokes confidence, and leaves them craving for more.",
+      title1: "INFRASTRUCTURE SOLUTIONS:",
+      review: "We build and manage robust IT infrastructure that powers your business growth. From server setup and configuration to complete data center solutions, we provide the foundation your technology needs to thrive. Our expertise in both Windows and Linux environments ensures optimal performance and security.",
       subTitle: "Projects",
       links1: [
          {
             id: 1,
-            title: "investor deck",
+            title: "server setup",
             href: "/"
          },
          {
             id: 2,
-            title: "startup pitch",
-            href: "/"
-         },
-      ],
-      src2: capaybilities2,
-      title2: "SELL PRODUCTS:",
-      links2: [
-         {
-            id: 1,
-            title: "business proposal",
-            href: "/"
-         },
-         {
-            id: 2,
-            title: "company presentation",
+            title: "data center solutions",
             href: "/"
          },
          {
             id: 3,
-            title: "product presentation",
+            title: "cloud infrastructure",
+            href: "/"
+         },
+      ],
+      src2: capaybilities2,
+      title2: "COMMUNICATION SYSTEMS:",
+      links2: [
+         {
+            id: 1,
+            title: "PBX systems",
+            href: "/"
+         },
+         {
+            id: 2,
+            title: "VoIP integration",
+            href: "/"
+         },
+         {
+            id: 3,
+            title: "IP telephony",
             href: "/"
          },
          {
             id: 4,
-            title: "sales deck",
-            href: "/"
-         },
-         {
-            id: 5,
-            title: "service deck",
+            title: "communication migration",
             href: "/"
          },
       ]
@@ -739,62 +719,52 @@ export const serviceCapaybilitiesItem = [
    {
       id: 2,
       src1: capaybilities3,
-      title1: "HIRE & MANAGE PEOPLE:",
-      review: "We help manage investor expectations and secure financing for your business with an excellent investor deck.Having a good product or illuminating ideas is not enough anymore.Poor investor presentation may close the door to potential financing right away.In contrast, a properly made investor deck provides investors with clarity, evokes confidence, and leaves them craving for more.",
+      title1: "WEB & AI SOLUTIONS:",
+      review: "We create intelligent web solutions that enhance user experience and automate business processes. Our custom web development combined with AI integration provides modern, responsive websites with smart automation features that drive business growth.",
       subTitle: "Projects",
       links1: [
          {
             id: 1,
-            title: "big news deck",
+            title: "web development",
             href: "/"
          },
          {
             id: 2,
-            title: "branded template",
+            title: "AI integration",
             href: "/"
          },
          {
             id: 3,
-            title: "onboarding presentation",
+            title: "automation solutions",
             href: "/"
          },
          {
             id: 4,
-            title: "policy deck & playbook",
-            href: "/"
-         },
-         {
-            id: 5,
-            title: "progress report",
+            title: "responsive design",
             href: "/"
          },
       ],
       src2: capaybilities4,
-      title2: "ADDITIONAL:",
+      title2: "ADDITIONAL SERVICES:",
       links2: [
          {
             id: 1,
-            title: "agency",
+            title: "email hosting",
             href: "/"
          },
          {
             id: 2,
-            title: "branding",
+            title: "security solutions",
             href: "/"
          },
          {
             id: 3,
-            title: "corporate training",
+            title: "backup & recovery",
             href: "/"
          },
          {
             id: 4,
-            title: "redesign",
-            href: "/"
-         },
-         {
-            id: 5,
-            title: "review",
+            title: "24/7 support",
             href: "/"
          },
       ]
@@ -805,61 +775,61 @@ export const expectationsItems = [
    {
       id: 1,
       title1: "01",
-      subTitle1: "Comunication",
+      subTitle1: "Expert Consultation",
       btn: "read",
-      para1: "The relationship with the clients is our top priority. We put extra effort into keeping mutual respect, honesty, and clarity in the conversation. For each client, we develop a project view site in Notion to track milestones and see the thinking behind steps. You always know what and when we do, as you feel confident in the results we bring.",
+      para1: "Our experienced team provides comprehensive consultation to understand your unique business requirements. We analyze your current infrastructure, identify improvement opportunities, and recommend the best solutions tailored to your needs. You can expect transparent communication, detailed planning, and expert guidance throughout the entire process.",
    },
    {
       id: 2,
       title1: "04",
-      subTitle1: "One point of contact",
+      subTitle1: "Dedicated Support",
       btn: "read",
-      para1: "Every project is led by Ihor, the agency's founder and creative director. He ensures the whole project flows from start to finish. He puts together the right creative team for your specific project. You will always have this direct contact person available to speak your business language. He takes care of translating your business goals into the language of design for the team."
+      para1: "Every project is managed by our dedicated team of experts who ensure seamless execution from start to finish. You will have direct access to our technical specialists who understand your business requirements and can provide immediate assistance. Our commitment to excellence means you receive personalized attention and support at every step."
    },
    {
       id: 3,
       title1: "02",
-      subTitle1: "Ukrainian Business",
+      subTitle1: "Proven Experience",
       btn: "read",
-      para1: "We are a Ukrainian-born business working mainly with international clients. And as Ukrainians, we offer an unshakable workforce that's proven it can handle anything. The international arena was our focus from the start. And each working day, we showed up as genuine innovators and Ukraine ambassadors. Part of our mission is to promote our homeland by doing the most incredible work we can, each project at a time.",
+      para1: "Since 2014, we have been delivering reliable IT solutions to businesses across various industries. Our decade of experience has equipped us with deep technical knowledge and practical insights that benefit every client. We have successfully completed hundreds of projects, from simple server setups to complex data center implementations.",
    },
    {
       id: 4,
       title1: "05",
-      subTitle1: "Constantly Improving",
+      subTitle1: "Continuous Innovation",
       btn: "read",
-      para1: "We are passionate about creating industry-shifting presentations. And as the world around us, we constantly evolve and improve. Our growth is fueled by an innovative ecosystem designed for each team member to grow. We provide them with frequent pieces for training both on design craft and personal development. We are constantly looking for new ways to support our creatives and our community as for our clients."
+      para1: "We stay at the forefront of technology trends and continuously update our skills and services. Our team regularly trains on the latest technologies, security practices, and industry standards. This commitment to innovation ensures that our clients receive cutting-edge solutions that prepare their businesses for future growth and challenges."
    },
    {
       id: 5,
       title1: "03",
-      subTitle1: "Holistic Approach",
+      subTitle1: "Comprehensive Solutions",
       btn: "read",
-      para1: "We simply ask lots of questions to understand your goals, business, and niche you operate. Our discovery process is essential as it informs our decisions throughout the project. Once we firmly define the goal, it is incredible to move towards that goal. That's why so much of our work is discovery, research, and asking good questions. The answers we get and the data we find go into the foundation of project success.",
+      para1: "We take a holistic approach to IT infrastructure, considering all aspects of your technology ecosystem. From initial assessment to final implementation and ongoing support, we ensure every component works together seamlessly. Our comprehensive solutions eliminate the need for multiple vendors and provide you with a single point of contact for all your IT needs.",
    },
    {
       id: 6,
       title1: "06",
-      subTitle1: "Limited Amount of Client",
+      subTitle1: "Quality Assurance",
       btn: "read",
-      para1: "We believe it is vital to dedicate sole focus and undivided attention to each project. To add as much value as possible, we serve a limited amount of clients per month. We have a rule that we follow to choosing projects: our client understands the value of the presentation as a communication tool. We believe in their products or ideas. Together, we work to create positive change."
+      para1: "We maintain the highest standards of quality in every project we undertake. Our rigorous testing procedures, security protocols, and performance optimization ensure that your systems operate reliably and efficiently. We believe in delivering solutions that not only meet your current needs but also provide a solid foundation for future growth."
    },
 ];
 
 export const achiveItems = [
    {
       id: 1,
-      title1: ["100+"],
-      title2: ["$280+"],
-      subTitle1: "Clients from 17 Countries",
-      subTitle2: "Millions raised for our clients",
+      title1: ["500+"],
+      title2: ["₹50+"],
+      subTitle1: "Projects Completed Successfully",
+      subTitle2: "Crores in Client Infrastructure Value",
    },
    {
       id: 2,
-      title1: ["90%"],
-      title2: ["98%"],
-      subTitle1: "Of our clients come back",
-      subTitle2: "Net Promoting Score",
+      title1: ["95%"],
+      title2: ["24/7"],
+      subTitle1: "Client Satisfaction Rate",
+      subTitle2: "Support & Monitoring",
    },
 ];
 
@@ -869,197 +839,197 @@ export const achiveItems = [
 export const presentationProjectItem = [
    {
       id: 1,
-      title: "fyde",
+      title: "CloudMigrate Pro",
       src: project1,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "audit",
+            title: "cloud migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "copywriting",
+            title: "infrastructure audit",
             href: "services",
          },
          {
             id: 3,
-            title: "sales deck",
+            title: "server optimization",
             href: "services",
          },
          {
             id: 4,
-            title: "slides design",
+            title: "security implementation",
             href: "services",
          },
       ]
    },
    {
       id: 2,
-      title: "trawa",
+      title: "SmartComm Systems",
       src: project3,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand identity",
+            title: "PBX migration",
             href: "/services",
          },
          {
             id: 2,
-            title: "design research",
+            title: "VoIP integration",
             href: "services",
          },
          {
             id: 3,
-            title: "investor deck",
+            title: "communication systems",
             href: "services",
          },
       ]
    },
    {
       id: 3,
-      title: "premium blend",
+      title: "AI WebSolutions",
       src: project4,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "web development",
+            href: "/services",
+         },
+         {
+            id: 2,
+            title: "AI integration",
             href: "/services",
          },
       ]
    },
    {
       id: 4,
-      title: "planetly",
+      title: "DataCenter Build",
       src: project5,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "data center setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "big news deck",
+            title: "network architecture",
             href: "/services",
          },
          {
             id: 3,
-            title: "branded template",
+            title: "infrastructure management",
             href: "/services",
          },
          {
             id: 4,
-            title: "investor deck",
-            href: "/services",
-         },
-         {
-            id: 5,
-            title: "policy deck & playbook",
-            href: "/services",
-         },
-         {
-            id: 6,
-            title: "sales deck",
+            title: "disaster recovery",
             href: "/services",
          },
       ]
    },
    {
       id: 5,
-      title: "black box",
+      title: "SecureCloud Pro",
       src: project8,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "investor deck",
+            title: "cloud security",
             href: "/services",
          },
          {
             id: 2,
-            title: "redesign",
+            title: "security hardening",
             href: "/services",
          },
          {
             id: 3,
-            title: "review",
+            title: "monitoring solutions",
             href: "/services",
          },
       ]
    },
    {
       id: 6,
-      title: "vise",
+      title: "Enterprise Hosting",
       src: project2,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "agency",
+            title: "hosting solutions",
             href: "/services",
          },
          {
             id: 2,
-            title: "compony presentation",
+            title: "email servers",
             href: "services",
          },
       ]
    },
    {
       id: 7,
-      title: "soft start",
+      title: "AutomateFlow",
       src: project9,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "business automation",
             href: "/services",
          },
          {
             id: 2,
-            title: "sales desc",
+            title: "workflow optimization",
             href: "/services",
          },
       ]
    },
    {
       id: 8,
-      title: "officevibe",
+      title: "TechSupport 24/7",
       src: project7,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "24/7 support",
+            href: "/services",
+         },
+         {
+            id: 2,
+            title: "system monitoring",
             href: "/services",
          },
       ]
    },
    {
       id: 9,
-      title: "workiz easy",
+      title: "InfraOptimize",
       src: project6,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "onboarding presentation",
+            title: "performance optimization",
             href: "/services",
          },
          {
             id: 2,
-            title: "policy deck & playbook",
+            title: "server maintenance",
             href: "/services",
          },
          {
             id: 3,
-            title: "sales deck",
+            title: "infrastructure upgrade",
             href: "/services",
          },
       ]
@@ -1070,17 +1040,17 @@ export const presentationProjectItem = [
 export const publicationItems = [
    {
       id: 1,
-      title: "officevibe ppt template",
+      title: "cloud migration best practices",
       src: publication1
    },
    {
       id: 2,
-      title: "trawa energy pitch deck",
+      title: "data center infrastructure guide",
       src: publication2
    },
    {
       id: 3,
-      title: "tech for ukraine",
+      title: "AI integration in business",
       src: publication3
    },
 ];
@@ -1090,17 +1060,17 @@ export const publicationItems = [
 export const insightsPublicationItems = [
    {
       id: 1,
-      title: "Sales calls?  Oh no!👀",
+      title: "Server Security Best Practices",
       src: insights1
    },
    {
       id: 2,
-      title: "Are you trying to be the main character?",
+      title: "Cloud Migration Strategies",
       src: insights2
    },
    {
       id: 3,
-      title: "New Top 7",
+      title: "AI in Business Automation",
       src: insights3
    },
 ];
@@ -1113,16 +1083,16 @@ export const latestItemss = [
       links: [
          {
             id: 1,
-            title: "public speaking"
+            title: "cloud computing"
          },
          {
             id: 1,
-            title: "storytelling"
+            title: "infrastructure"
          },
       ],
-      title: "Presenting to an International Audience: <br/> Tips and Lessons Learned.",
-      subTitle: "By Ihor Hulyahrodskyy",
-      date: "26 May 2023"
+      title: "Building Scalable Cloud Infrastructure: <br/> Best Practices and Implementation Guide",
+      subTitle: "By Tathya Technologies Team",
+      date: "15 Dec 2024"
    },
    {
       id: 2,
@@ -1131,12 +1101,12 @@ export const latestItemss = [
       links: [
          {
             id: 1,
-            title: "presentation template"
+            title: "AI solutions"
          },
       ],
-      title: "Developing compony-wide presentation template for premium blend.",
-      subTitle: "By Ihor Hulyahrodskyy",
-      date: "07 Dec 2022"
+      title: "Implementing AI-Powered Business Automation for Modern Enterprises",
+      subTitle: "By Tathya Technologies Team",
+      date: "28 Nov 2024"
    },
 ];
 
@@ -1144,51 +1114,46 @@ export const latestItemss = [
 export const workizItem = [
    {
       id: 1,
-      title: "office vibe",
+      title: "TechSupport 24/7",
       src: project7,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "24/7 support",
+            href: "/services",
+         },
+         {
+            id: 2,
+            title: "system monitoring",
             href: "/services",
          },
       ]
    },
    {
       id: 2,
-      title: "planetly",
+      title: "DataCenter Build",
       src: project5,
       href: "/case/",
       links: [
          {
             id: 1,
-            title: "brand template",
+            title: "data center setup",
             href: "/services",
          },
          {
             id: 2,
-            title: "big news deck",
+            title: "network architecture",
             href: "/services",
          },
          {
             id: 3,
-            title: "branded template",
+            title: "infrastructure management",
             href: "/services",
          },
          {
             id: 4,
-            title: "investor deck",
-            href: "/services",
-         },
-         {
-            id: 5,
-            title: "policy deck & playbook",
-            href: "/services",
-         },
-         {
-            id: 6,
-            title: "sales deck",
+            title: "disaster recovery",
             href: "/services",
          },
       ]
@@ -1202,51 +1167,21 @@ export const aboutPartberItems = [
    {
       id: 1,
       src: planetly,
-      title: "Planetly",
-      para: "Ihor and his team tackled the projects with great professionalism and creativity. They understood our brand value and turned this into excellent slide designs. The process was seamless and very effective, so we decided to roll this out across all our presentation decks. Furthermore, their understanding, professionalism, and creativity have secured a continued partnership."
+      title: "TechCorp Solutions",
+      para: "Tathya Technologies transformed our entire IT infrastructure with their exceptional server setup and cloud migration services. Their team's expertise in both Windows and Linux environments, combined with their 24/7 support, made the entire process seamless. We now have a robust, scalable infrastructure that supports our growing business needs."
    },
    {
       id: 2,
       src: officevibe,
-      title: "Officevibe",
-      para: "Ochi has an impressive understanding of what's needed to do an effective presentation. The stakeholders at work said it's the best most complete PP template they've ever seen. Ochi delivered more than I was expecting and we were really surprised with the quality of his work. Will work with Ochi design again for sure!"
+      title: "Global Communications Ltd",
+      para: "The PBX migration and IP telephony solutions provided by Tathya Technologies exceeded our expectations. They seamlessly migrated our legacy systems to modern IP-based solutions with zero downtime. Their professionalism and technical expertise made them the perfect partner for our communication infrastructure upgrade."
    },
    {
       id: 3,
       src: nestle,
-      title: "Nestle",
-      para: "This is just a great experience for us! As an established company, you operate within different industries and expect immediate input with a certain level of service. Ihor and the team delivered exactly that. Fantastic result, quick delivery time, and highly responsive. This team is a hidden gem. We've already started to outline our next projects for them."
+      title: "DataFlow Enterprises",
+      para: "Tathya Technologies built our complete data center infrastructure from scratch. Their expertise in hardware procurement, network architecture, and disaster recovery planning was outstanding. The ongoing support and maintenance services ensure our operations run smoothly 24/7. Highly recommended for enterprise-level infrastructure projects."
    },
-   // {
-   //    id: 4,
-   //    src: toyota,
-   //    title: "Toyota",
-   //    para: "Great work, great communication, and work ethic. Their skills, and understanding of project scope and subject matter - are simply unmatched. Looking very forward to working again soon."
-   // },
-   // {
-   //    id: 5,
-   //    src: lexus,
-   //    title: "Lexus",
-   //    para: "Thanks for your great work! The communication was excellent, the team was able to grasp in detail what we wanted and plastered it on the company presentation and sales deck. Their work is absolutely amazing."
-   // },
-   // {
-   //    id: 6,
-   //    src: aflorihtmic,
-   //    title: "Aflorithmic",
-   //    para: "Super responsive and quick. A charm to work with. Unfortunately, often designers are not like that and you end up losing a lot of time with briefings that don't lead anywhere. This is definitely not the case here. I'd work again with lhor and his team anytime!"
-   // },
-   // {
-   //    id: 7,
-   //    src: orderlion,
-   //    title: "Orderlion",
-   //    para: "The result was just amazing! For me, a designer is exceptional when you are so satisfied with the result that you want to look at it the whole day like a kid with a new toy. Ihor and his team delivered exactly that! They are very talented designers who understand the real business problem we are trying to solve and iterate over many drafts to achieve the best possible outcome. We are looking for a long-lasting working relationship!"
-   // },
-   // {
-   //    id: 8,
-   //    src: blackBox,
-   //    title: "BlackBox",
-   //    para: "They nailed what our product was all about. We found their ability to workshop all the angles and take on feedback was great and it shows in the final product. Everything moved with a milestone dynamic brief via Notion which was handy to track progress. We're very happy with the process and the final product. All was handled well and professionally."
-   // },
 ];
 
 // contact page constants
@@ -1254,99 +1189,99 @@ export const aboutPartberItems = [
 export const FaqItems = [
    {
       id: 1,
-      question: "How many iterations the project includes?",
+      question: "What types of server solutions do you provide?",
       title: "Description",
-      description: "We’re committed to delighting every one of our clients and will do everything to deliver on the project fully. We iterate as much as needed to ensure the best result.",
+      description: "We provide comprehensive server solutions including Windows and Linux server setup, configuration, maintenance, performance optimization, security hardening, 24/7 monitoring, migration services, and backup solutions. Our team ensures your servers run efficiently and securely.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "Based on our experience and ways of working, no more than three revisions are needed to meet clients’ expectations and business needs."
+            description: "We handle both physical and virtual server environments, ensuring optimal performance and security for your business applications."
          },
          {
             id: 2,
             title: 2,
-            description: "If your project is something we are not capable of doing, we will say it right there and won’t commit. Instead, we will refer you to specialists in any field you need and we might know."
+            description: "Our server solutions include complete setup, ongoing maintenance, performance monitoring, and disaster recovery planning."
          },
       ],
       button: "read"
    },
    {
       id: 2,
-      question: "Do you animate presentations?",
+      question: "Do you provide cloud migration services?",
       title: "Description",
-      description: "Movement is what attracts the eye. But not every presentation requires animation, although we do agree that animated presentations give a wow effect. We surely add transitions and animation to your presentation where we think it increases engagement, surprise, or simply delivers the message flawlessly.",
+      description: "Yes, we specialize in cloud migration services including multi-cloud deployment, security implementation, performance optimization, and cost management. We help businesses transition from on-premises infrastructure to secure, scalable cloud solutions with minimal downtime.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
+            description: "Our cloud migration process includes thorough planning, testing, and gradual migration to ensure business continuity throughout the transition."
          },
       ],
       button: "read"
    },
    {
       id: 3,
-      question: "Do you join forces with other agencies?",
+      question: "Can you help with PBX system migration?",
       title: "Description",
-      description: "Yes, we do partner with other creative agencies where we lack expertise or experience. We carefully select our partners and frequently collaborate on brand identity, web design, animation design, and other fine initiatives that benefit both us and our clients. All with the purpose to expand our creative POV and supplementing you with top-notch work.",
+      description: "Absolutely! We provide complete PBX migration services from legacy systems to modern IP-based solutions. Our services include VoIP integration, call routing setup, multi-site connectivity, and ongoing PBX maintenance and support.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
+            description: "We ensure zero downtime during PBX migration and provide comprehensive training for your team on the new communication systems."
          },
       ],
       button: "read"
    },
    {
       id: 4,
-      question: "I want to become a part of the team! Do you hire?",
+      question: "Do you offer 24/7 support and monitoring?",
       title: "Description",
-      description: "Yes! We actively search for talent to join us in completing high-stake presentation design projects at OCHI. As a presentation agency, we always aim to create the best products and services possible. Hence, we are looking for someone who will enjoy helping us fuse design and thinking into something impactful and beautiful.",
+      description: "Yes, we provide 24/7 monitoring and support services for all our infrastructure solutions. Our team continuously monitors your systems for performance, security, and availability, providing immediate response to any issues that arise.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at Ihor@ochi.design with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it."
+            description: "Our support team is available round-the-clock to handle emergencies, perform maintenance, and ensure your systems operate at peak performance."
          },
          {
             id: 2,
             title: 2,
-            description: "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to hello@ochi.design with “-” and we will get back to you."
+            description: "We provide proactive monitoring with automated alerts and regular performance reports to keep you informed about your infrastructure status."
          },
       ],
       button: "read"
    },
    {
       id: 5,
-      question: "Can I hire you for publish speaking, or student workshop?",
+      question: "Can you build custom web applications with AI integration?",
       title: "Description",
-      description: "The short answer is yes.",
+      description: "Yes, we develop custom web applications with AI integration including intelligent chatbots, automated customer service, predictive analytics, and business intelligence solutions. Our web development team creates modern, responsive applications with cutting-edge AI features.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "Through our work, we empower brands to make a difference. But while, the presentations that raise millions help in the long run by providing resources for organizations to evolve, create new workplaces, and make things better. We also offer our corporate clients personal training. We love visiting traditional university students to share insights and expertise through masterclasses and workshops. This is how we make things better by teaching others how to make better things. And this changes the world here and now."
+            description: "We specialize in creating AI-powered web applications that enhance user experience, automate business processes, and provide valuable insights through data analytics."
          },
          {
             id: 2,
             title: 2,
-            description: "If you have an event coming or you are a university academic, please reach out to us with the topic, and we will see how we can help."
+            description: "Our AI solutions include machine learning implementation, natural language processing, and intelligent automation systems tailored to your business needs."
          },
       ],
       button: "read"
    },
    {
       id: 6,
-      question: "Would you like to jump on a podcast or YouTube video?",
+      question: "Do you provide data center setup services?",
       title: "Description",
-      description: "Yes, why not. It’s a great chance to give back to the creative community by sharing and learning. Especially if the audience is relevant to the communication design subject. Or maybe it helps our clients in some way. We can’t know until we see some details, so drop us a line with a brief explanation at kseniia@ochi.design with the “Podcast/YT Proposal”.",
+      description: "Yes, we provide complete data center infrastructure services including hardware procurement, installation, network architecture, connectivity solutions, disaster recovery planning, and power/cooling system design. We help businesses build robust, scalable data center infrastructure.",
       links: [
          {
             id: 1,
             title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
+            description: "Our data center services cover everything from initial planning and design to implementation and ongoing maintenance, ensuring your infrastructure meets current and future business requirements."
          },
       ],
       button: "read"
